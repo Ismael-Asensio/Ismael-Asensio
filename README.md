@@ -1,6 +1,6 @@
 ### Console.WriteLine("Hi everyone")
 
-![Banner](file:///D:/%E2%80%94Pngtree%E2%80%94cartoon%20green%20vector%20avocado%20fruit_1271020.png)
+![Banner](https://twitter.com/Aguacate_GT/status/1674936853529600001/photo/1)
 
 - 🥑 I’m Avocado Lover
 - 🎮 MMORPG Games
