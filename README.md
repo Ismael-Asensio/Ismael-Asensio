@@ -1,6 +1,6 @@
 ### Console.WriteLine("Hi everyone")
 
-![I am GitHub Readme Generator's creator](<a href='https://pngtree.com/free-backgrounds'>free background photos from pngtree.com/</a>)
+![I am GitHub Readme Generator's creator](https://pngtree.com/free-backgrounds)
 
 - 🥑 I’m Avocado Lover
 - 🎮 MMORPG Games
