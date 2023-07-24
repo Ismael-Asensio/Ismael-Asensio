@@ -16,5 +16,5 @@
   <p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismael-Asensio&theme=dark&hide_border=false" /></p>
 
 
-![snake gif](https://github.com/Ismael-Asensio/Ismael-Asensio/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ismael-Asensio/Ismael-Asensio/blob/output/github-contribution-grid-snake-dark.svg)
 
