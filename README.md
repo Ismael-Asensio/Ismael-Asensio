@@ -13,7 +13,6 @@
 
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Ismael-Asensio&theme=merko&show_icons=true" />
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Asensio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <img width="47%" align="left" src="https://raw.githubusercontent.com/Ismael-Asensio/github-profile-summary-cards-example/master/profile-summary-card-output/merko/0-profile-details.svg" />
   <p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismael-Asensio&theme=dark&hide_border=false" /></p>
 
 ![snake gif](https://github.com/Ismael-Asensio/Ismael-Asensio/blob/output/github-contribution-grid-snake-dark.svg)
